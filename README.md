@@ -9,4 +9,3 @@ A collection of recipes for '[The Racket Graphical Interface Toolkit](https://do
 To contribute add your recipe as a single file in the [recipes](recipes/) folder
 
 Contributions are accepted on the condition they are licenced under the same terms as Racket: MIT or Apache 2.
-
